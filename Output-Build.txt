@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: WindowsFormsApp1, Configuration: Debug Any CPU ------
+1>C:\Users\Vicente Perez\source\repos\WindowsFormsApp1\WindowsFormsApp1\Registrar usuario.cs(18,24,18,34): warning CS0169: The field 'Registrar_usuario.codusuario' is never used
+1>C:\Users\Vicente Perez\source\repos\WindowsFormsApp1\WindowsFormsApp1\Registrar usuario.cs(17,24,17,36): warning CS0169: The field 'Registrar_usuario.tipo_usuario' is never used
+1>  WindowsFormsApp1 -> C:\Users\Vicente Perez\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe

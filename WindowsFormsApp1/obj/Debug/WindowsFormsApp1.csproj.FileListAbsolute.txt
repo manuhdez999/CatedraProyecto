@@ -1,0 +1,40 @@
+c:\Users\Vicente Perez\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\Users\Vicente Perez\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\Users\Vicente Perez\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\Users\Vicente Perez\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.Design.dll
+c:\Users\Vicente Perez\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.dll
+c:\Users\Vicente Perez\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.Fonts.dll
+c:\Users\Vicente Perez\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+c:\Users\Vicente Perez\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\Users\Vicente Perez\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+c:\Users\Vicente Perez\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+c:\Users\Vicente Perez\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+c:\Users\Vicente Perez\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\Users\Vicente Perez\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Vicente Perez\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Vicente Perez\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.acerca_de.resources
+C:\Users\Vicente Perez\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pantalla_principal.resources
+C:\Users\Vicente Perez\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registrar_usuario.resources
+C:\Users\Vicente Perez\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pantalla_de_bienvenida.resources
+C:\Users\Vicente Perez\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Facturas.resources
+C:\Users\Vicente Perez\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Mesas.resources
+C:\Users\Mejía\Documents\Eduardo\ADS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Mejía\Documents\Eduardo\ADS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Mejía\Documents\Eduardo\ADS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Mejía\Documents\Eduardo\ADS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.Design.dll
+C:\Users\Mejía\Documents\Eduardo\ADS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.dll
+C:\Users\Mejía\Documents\Eduardo\ADS\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Mejía\Documents\Eduardo\ADS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Mejía\Documents\Eduardo\ADS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Facturas.resources
+C:\Users\Mejía\Documents\Eduardo\ADS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Mejía\Documents\Eduardo\ADS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.acerca_de.resources
+C:\Users\Mejía\Documents\Eduardo\ADS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Mesas.resources
+C:\Users\Mejía\Documents\Eduardo\ADS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pantalla_de_bienvenida.resources
+C:\Users\Mejía\Documents\Eduardo\ADS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pantalla_principal.resources
+C:\Users\Mejía\Documents\Eduardo\ADS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Mejía\Documents\Eduardo\ADS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Registrar_usuario.resources
+C:\Users\Mejía\Documents\Eduardo\ADS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Mejía\Documents\Eduardo\ADS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Mejía\Documents\Eduardo\ADS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Mejía\Documents\Eduardo\ADS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Mejía\Documents\Eduardo\ADS\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
